@@ -1,5 +1,3 @@
-alert('hello');
-
 const f = require('fluture');
 
 function _isNil(val) {
